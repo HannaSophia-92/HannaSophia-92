@@ -1,6 +1,5 @@
 ### Hi there, I´m Hanna 👋
 
-[![HannaSophia-92's github stats](https://github-readme-stats.vercel.app/api?username=HannaSophia-92)](https://github.com/anuraghazra/github-readme-stats)
 ![HannaSophia-92's github stats](https://github-readme-stats.vercel.app/api?username=HannaSophia-92&show_icons=true&theme=radical)
 
 - 🖥  On my way to become a web developer

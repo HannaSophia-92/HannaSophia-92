@@ -5,7 +5,7 @@
 
 🖥  On my way to become a web developer
 
-👩‍💻  I’m currently learning to code at [neuefische coding bootcamp](https://www.neuefische.de/)
+👩‍💻  I’m currently learning to code at [neue fische - School and Pool for Digital Talent](https://www.neuefische.de/)
 
 
 🌍 I love connecting with different people so if you want to say hi, I'll be happy to meet you more 🌎

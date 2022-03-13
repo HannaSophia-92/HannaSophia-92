@@ -4,6 +4,7 @@
 
 
 🖥  On my way to become a web developer
+
 👩‍💻  I’m currently learning to code at [neuefische coding bootcamp](https://www.neuefische.de/)
 
 

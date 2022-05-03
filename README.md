@@ -1,16 +1,19 @@
-### Hi there, I´m Hanna 👋
+### Hi there, I'm Hanna 👋
+
+
+👩‍💻 I just finished a web development bootcamp at [neue fische - School and Pool for Digital Talent](https://www.neuefische.de/)
+
+🖥  Now I'm looking for a job as junior frontend developer
+
+🌍 I love connecting with different people so if you want to say hi, I'll be happy to meet you more 🌎
+
 
 ![HannaSophia-92's github stats](https://github-readme-stats.vercel.app/api?username=HannaSophia-92&show_icons=true&theme=gotham)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HannaSophia-92&show_icons=true&theme=gotham)](https://github.com/HannaSophia-92/github-readme-stats)
 
 
-🖥  On my way to become a web developer
 
-👩‍💻  I’m currently learning to code at [neue fische - School and Pool for Digital Talent](https://www.neuefische.de/)
-
-
-🌍 I love connecting with different people so if you want to say hi, I'll be happy to meet you more 🌎
  
  <!--
 **HannaSophia-92/HannaSophia-92** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
